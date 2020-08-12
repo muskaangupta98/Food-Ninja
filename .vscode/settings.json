@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.preferredLightColorTheme": "Visual Studio Dark"
+}

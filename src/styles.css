@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.card {
+  @apply card grid grid-cols-3 w-full gap-6 ml-8 mr-8 rounded overflow-hidden shadow-lg;
+  width: 96%;
+}
